@@ -3,6 +3,11 @@
 I'm building a practical cybersecurity portfolio with a current focus on Microsoft Entra ID, identity and access management, and security documentation.
 
 I use GitHub to document what I learn, what I build, and how technical security work connects to business processes and audit evidence.
+<div align="center">
+  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=150442&center=true&vCenter=true&width=435&lines=Security+Thinking+in+Progress;Practical+Projects.+Clear+Documentation" alt="Typing SVG" />
+</div>
 
 ## Verified Learning
 
