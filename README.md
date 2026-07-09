@@ -1,0 +1,43 @@
+# Hi, I'm Viktorija 👋
+
+I'm building a practical cybersecurity portfolio with a current focus on Microsoft Entra ID, identity and access management, and security documentation.
+
+I use GitHub to document what I learn, what I build, and how technical security work connects to business processes and audit evidence.
+
+## Current Focus
+
+* Microsoft Entra ID
+* Identity and Access Management
+* Access lifecycle documentation
+* Security documentation
+* Practical GRC
+* Audit evidence
+
+## Featured Project
+
+### Microsoft Entra ID Access Lifecycle Lab
+
+A practical lab showing how access can be requested, approved, assigned, reviewed, and documented in a small company environment.
+
+This project is built to practice:
+
+* Access request and approval logic
+* Users, groups, and role assignments
+* Access review thinking
+* Documentation for audit evidence
+* Connecting technical configuration with business risk
+
+Repository: https://github.com/VikSaikou/entra-id-access-lifecycle
+
+## Portfolio Website
+
+My GitHub Pages site collects my cybersecurity projects and learning progress in one place.
+
+Live site: https://viksaikou.github.io/
+
+## What I'm working on next
+
+* Improving Microsoft Entra ID documentation
+* Practicing access reviews and identity governance concepts
+* Building small, realistic cybersecurity portfolio projects
+* Learning how to explain technical work clearly to employers, auditors, and clients
