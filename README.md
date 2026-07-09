@@ -4,6 +4,8 @@ I'm building a practical cybersecurity portfolio with a current focus on Microso
 
 I use GitHub to document what I learn, what I build, and how technical security work connects to business processes and audit evidence.
 
+[Portfolio](https://viksaikou.github.io) • [LinkedIn](https://www.linkedin.com/in/viktorij-s/) • [Credly Badges](https://www.credly.com/users/viktorija-surska/badges) • [Microsoft Learn](https://learn.microsoft.com/lv-lv/users/vik-0604/)
+
 ## Current Focus
 
 * Microsoft Entra ID
