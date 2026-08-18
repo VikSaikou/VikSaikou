@@ -21,14 +21,6 @@ I use GitHub to document not only what I build, but also the reasoning, assumpti
 - Security Knowledge Base
     - An experimental cybersecurity knowledge management system designed to organise security concepts, controls, risks, evidence, and practical guidance into a reusable and navigable structure.
 
-## Certifications and Learning
-
-- CompTIA Security+
-- ISC2 Certified in Cybersecurity
-- Cisco Networking Academy
-- Microsoft Learn training
-- Business Informatics master’s studies at Riga Technical University
-
 
 ## Portfolio Website
 
