@@ -1,4 +1,4 @@
-# Hi, I'm Viktorija
+# Hi!
 
 Cybersecurity practitioner focused on security governance, GRC, and knowledge systems.
 I build practical models and tools that make security controls, risks, evidence, and technical findings easier to understand and use.
@@ -7,8 +7,6 @@ I use GitHub to document not only what I build, but also the reasoning, assumpti
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=150442&center=true&vCenter=true&width=650&lines=Security+Thinking+in+Progress.;Practical+Projects.;Clear+Documentation." alt="Typing SVG" />
 </div>
-
-[Portfolio](https://viksaikou.github.io) • [LinkedIn](https://www.linkedin.com/in/viktorij-s/) • [Credly Badges](https://www.credly.com/users/viktorija-surska/badges) • [Microsoft Learn](https://learn.microsoft.com/lv-lv/users/vik-0604/)
 
 ## Featured Projects
 
